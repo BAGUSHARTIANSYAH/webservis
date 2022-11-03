@@ -1,0 +1,24 @@
+.imgIndo{
+    height: 100px;
+}
+.imgGaruda{
+    height: 50px;
+    margin-right: 10px;
+}
+.bgHeader{
+    background-color:#3C4048;
+    /* ##FFE7CC; */
+}
+.bgHeader1{
+    background-color:#00ABB3;
+    /* ##FFE7CC; */
+}
+footer {
+    /* display: block; */
+    
+    text-align: center;
+    padding: 3px;
+    position: relative;
+    background-color: gray;
+    color: white;
+}
